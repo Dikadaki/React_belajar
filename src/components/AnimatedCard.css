@@ -1,0 +1,13 @@
+.card {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.9s ease-out, transform 0.9s ease-out;
+    margin: 20px;
+    width: 250px;
+    height: 400px;
+}
+
+.card.slide-up {
+    opacity: 1;
+    transform: translateY(0);
+}

@@ -1,0 +1,33 @@
+.custom-collapse-container {
+    margin: 100px;
+    text-align: center;
+    }
+    
+    .custom-collapse-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    }
+    
+    .custom-collapse-button:hover {
+    background-color: #0056b3;
+    }
+    
+    .custom-collapse-content {
+    margin-top: 10px;
+    }
+    
+    .custom-collapse-card {
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    }
+    
+    .custom-collapse-card .card-body {
+    background-color: #f8f9fa;
+    color: #333;
+    padding: 20px;
+    }
+    
