@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_belajar/static/css/main.39345c3a.css",
+    "main.js": "/React_belajar/static/js/main.9a70bc36.js",
+    "static/media/alpukat.jpg": "/React_belajar/static/media/alpukat.fd6f72a88b7bfdf2495f.jpg",
+    "static/media/leci.jpg": "/React_belajar/static/media/leci.89ed8d9d9c2c5798cfe3.jpg",
+    "static/media/naga.jpg": "/React_belajar/static/media/naga.ec8b3dea38efa05f47a5.jpg",
+    "index.html": "/React_belajar/index.html",
+    "main.39345c3a.css.map": "/React_belajar/static/css/main.39345c3a.css.map",
+    "main.9a70bc36.js.map": "/React_belajar/static/js/main.9a70bc36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39345c3a.css",
+    "static/js/main.9a70bc36.js"
+  ]
+}
